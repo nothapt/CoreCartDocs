@@ -9,5 +9,3 @@ This wiki is designed for developers and creators of online stores who want to u
 * **For pros**: coming soon
 * **For plugin authors**: coming soon
 
-***
-Main project repository: [://github.com](https://://github.com)
