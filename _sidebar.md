@@ -1,3 +1,3 @@
-* [Home](/README.md)
+* [Home](/)
 * **Quick Start**
-  * [Installation and startup](/installation.md)
+  * [Installation and startup](/installation)
